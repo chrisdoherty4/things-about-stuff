@@ -4,7 +4,6 @@ A collection of notes I've made as I've learned things about stuff.
 
 ### Topics
 
-- [Topics](#topics)
 - [SWIG](#swig)
 - [Generated Code](#generated-code)
 
