@@ -1,6 +1,6 @@
-# 📚 Things About Stuff (TAS)
+# 📚 Things I Learned (TIL)
 
-A collection of notes I've made as I've learned things about stuff.
+A collection of things I've learned.
 
 ### Topics
 
