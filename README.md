@@ -9,6 +9,7 @@ A collection of things I've learned.
 - [Gitlab](#gitlab)
 - [Go](#go)
 - [Github](#github)
+- [Apt](#apt)
 
 ---
 
@@ -41,3 +42,6 @@ A collection of things I've learned.
 ### VirtualBox
 
 - [Only one software component can use virutalization hardware](virtualbox/only-one-software-component-can-use-virtualization.md)
+### Apt
+
+- [Storing credentials](apt/storing-credentials.md)
