@@ -2,27 +2,32 @@
 
 A collection of things I've learned.
 
-### Topics
-
-- [SWIG](#swig)
-- [Generated Code](#generated-code)
+- [Apt](#apt)
+- [Docker](#docker)
+- [Generated code](#generated-code)
+- [Github](#github)
 - [Gitlab](#gitlab)
 - [Go](#go)
-- [Github](#github)
-- [Apt](#apt)
+- [Swig](#swig)
+- [Virtualbox](#virtualbox)
 
 ---
 
-### SWIG
+### Apt
 
-- [What is SWIG?](swig/what-is-swig.md)
-- [Basic SWIG](swig/basic-swig.md)
-- [Memory leaks in SWIG generated code](swig/memory-leaks.md)
-- [SWIG and Go don't Go](swig/swig-and-go-dont-go.md)
+- [Storing credentials](apt/storing-credentials.md)
 
-### Generated Code
+### Docker
+
+- [Docker trust](docker/docker-trust.md)
+
+### Generated code
 
 - [To commit or to not commit](generated-code/to-commit-or-to-not-commit.md)
+
+### Github
+
+- [Getting the latest release](github/getting-the-latest-release.md)
 
 ### Gitlab
 
@@ -30,18 +35,18 @@ A collection of things I've learned.
 
 ### Go
 
-- [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
 - [Preventing shared slice data overwrites](go/preventing-shared-slice-data-overwrites.md)
-- [Finding documentation for previous go versions](go/finding-documentation-for-previous-go-version.md)
-- [`runtime.NumCPU()` returns logical processor count](go/numcpu-returns-logical-processor-count.md)
+- [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
+- [Finding documentation for previous go version](go/finding-documentation-for-previous-go-version.md)
+- [Numcpu returns logical processor count](go/numcpu-returns-logical-processor-count.md)
 
-### Github
+### Swig
 
-- [Getting the latest release](github/getting-the-latest-release.md)
+- [Swig and go dont go](swig/swig-and-go-dont-go.md)
+- [Memory leaks](swig/memory-leaks.md)
+- [Basic swig](swig/basic-swig.md)
+- [What is swig](swig/what-is-swig.md)
 
-### VirtualBox
+### Virtualbox
 
-- [Only one software component can use virutalization hardware](virtualbox/only-one-software-component-can-use-virtualization.md)
-### Apt
-
-- [Storing credentials](apt/storing-credentials.md)
+- [Only one software component can use virtualization](virtualbox/only-one-software-component-can-use-virtualization.md)
