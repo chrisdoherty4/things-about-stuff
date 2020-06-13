@@ -38,6 +38,7 @@ A collection of things I've learned.
 - [Preventing shared slice data overwrites](go/preventing-shared-slice-data-overwrites.md)
 - [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
 - [Finding documentation for previous go version](go/finding-documentation-for-previous-go-version.md)
+- [Handling slices of interfaces](go/handling-slices-of-interfaces.md)
 - [Numcpu returns logical processor count](go/numcpu-returns-logical-processor-count.md)
 
 ### Swig
