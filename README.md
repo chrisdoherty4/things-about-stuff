@@ -3,6 +3,7 @@
 A collection of things I've learned.
 
 - [Apt](#apt)
+- [C](#c)
 - [Docker](#docker)
 - [Generated code](#generated-code)
 - [Github](#github)
@@ -17,6 +18,10 @@ A collection of things I've learned.
 ### Apt
 
 - [Storing credentials](apt/storing-credentials.md)
+
+### C
+
+- [Use of unsigned ints](c/use-of-unsigned-ints.md)
 
 ### Docker
 
@@ -36,11 +41,11 @@ A collection of things I've learned.
 
 ### Go
 
-- [Finding documentation for previous go version](go/finding-documentation-for-previous-go-version.md)
-- [Numcpu returns logical processor count](go/numcpu-returns-logical-processor-count.md)
 - [Preventing shared slice data overwrites](go/preventing-shared-slice-data-overwrites.md)
 - [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
+- [Finding documentation for previous go version](go/finding-documentation-for-previous-go-version.md)
 - [Handling slices of interfaces](go/handling-slices-of-interfaces.md)
+- [Numcpu returns logical processor count](go/numcpu-returns-logical-processor-count.md)
 
 ### Make
 
@@ -50,8 +55,8 @@ A collection of things I've learned.
 
 - [Swig and go dont go](swig/swig-and-go-dont-go.md)
 - [Memory leaks](swig/memory-leaks.md)
-- [What is swig](swig/what-is-swig.md)
 - [Basic swig](swig/basic-swig.md)
+- [What is swig](swig/what-is-swig.md)
 
 ### Virtualbox
 
